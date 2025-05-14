@@ -1,4 +1,4 @@
-# quizwhiz
+# QUIZWHIZ
 
 QuizWhiz solves these issues by providing a digital platform where students can easily create, categorize, and review flashcards. The app offers a dynamic quiz mode that randomizes flashcards from selected topics, helping users reinforce their learning. Additionally, QuizWhiz includes a progress tracking feature, allowing users to visualize their study progress and see which areas need more focus. The interactive nature of the app keeps users engaged, while the categorization ensures that they can efficiently manage study materials for multiple subjects. With QuizWhiz, students can better organize their study routine and monitor their improvement over time.
 
