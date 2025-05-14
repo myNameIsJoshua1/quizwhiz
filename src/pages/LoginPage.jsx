@@ -216,7 +216,7 @@ const LoginPage = ({ setUser: propsSetUser }) => {
               </div>
             </div>
             
-            <div className="grid grid-cols-1 gap-3">
+            <div className="flex justify-center items-center mt-3">
               <GoogleLoginButton />
             </div>
           </form>
