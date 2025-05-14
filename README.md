@@ -1,6 +1,5 @@
 # QUIZWHIZ
 
-<<<<<<< HEAD
 QuizWhiz solves these issues by providing a digital platform where students can easily create, categorize, and review flashcards. The app offers a dynamic quiz mode that randomizes flashcards from selected topics, helping users reinforce their learning. Additionally, QuizWhiz includes a progress tracking feature, allowing users to visualize their study progress and see which areas need more focus. The interactive nature of the app keeps users engaged, while the categorization ensures that they can efficiently manage study materials for multiple subjects. With QuizWhiz, students can better organize their study routine and monitor their improvement over time.
 
 
@@ -109,4 +108,4 @@ react-user-auth
 ## Contributing
 
 Feel free to fork the repository and submit pull requests for any improvements or features.
->>>>>>> 932f419 (Initial commit)
+
