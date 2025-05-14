@@ -8,6 +8,7 @@ import { Eye, EyeOff } from "lucide-react";
 import { FaGoogle } from "react-icons/fa";
 import axios from "axios";
 import { userService } from "../../services/userService";
+import api from "../../services/api";
 
 export function AuthForm({ type }) {
   const navigate = useNavigate();
@@ -105,7 +106,7 @@ export function AuthForm({ type }) {
     
     try {
       setLoading(true);
-      const response = await axios.post("http://localhost:8080/login", {
+      const response = await api.post("/login", {
         email,
         password
       });
@@ -135,7 +136,7 @@ export function AuthForm({ type }) {
     
     try {
       setLoading(true);
-      const response = await axios.post("http://localhost:8080/api/auth/register", {
+      const response = await api.post("/api/auth/register", {
         email,
         password,
         firstName,
